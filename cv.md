@@ -32,5 +32,5 @@ Faculty: Grifendor
 Specialty: mechanic technician
 
 ---
-## Level of English: 0
+## Level of English: A1
 ---
