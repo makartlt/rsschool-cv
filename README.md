@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://makartlt.github.io/rsshool-cv/cv
+https://makartlt.github.io/rsschool-cv/cv
